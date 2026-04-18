@@ -1,0 +1,12 @@
+direction = input("Direction (NORD/EST/SUD/OUEST) : ")
+x = 0
+y = 0
+if direction == "NORD":
+    y = y - 1
+elif direction == "SUD":
+    y = y + 1
+elif direction == "EST":
+    x = x + 1
+elif direction == "OUEST":
+    x = x -1
+print("Postion : ",x,y,)

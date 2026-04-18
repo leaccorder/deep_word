@@ -1,0 +1,7 @@
+nom = "Ela"
+hp = 100
+x = 0
+y = 0
+print(nom)
+print(hp)
+print("Position:",x,",",y,)

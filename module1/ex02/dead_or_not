@@ -1,0 +1,5 @@
+hp = 0
+if hp > 0:
+    print("Vivant.")
+else :
+    print("Mort.")
