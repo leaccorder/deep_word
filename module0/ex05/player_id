@@ -1,4 +1,0 @@
-print("Quel est ton nom ? ")
-input()
-print("Quel age à tu ? ")
-input()
